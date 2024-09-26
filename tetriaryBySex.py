@@ -134,7 +134,7 @@ plt.subplots_adjust(bottom=0.06)  # Reduced bottom space to close the gap
 legend = ax.legend(loc='lower right', frameon=False, fontsize=12)
 
 # Save the figure with high resolution
-plt.savefig('beautiful_tertiary_education_enrollment_infographic.png', dpi=300, bbox_inches='tight')
+plt.savefig('tertiary_education_enrollment_infographic.png', dpi=300, bbox_inches='tight')
 
 # Show the plot
 plt.show()
