@@ -1,4 +1,18 @@
-# Virtual environment
-venv/
-*.env
-*.venv
+# Ignore the virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# VS Code workspace settings
+.vscode/
+
+# Ignore environment variables (if any)
+.env
+
+# MacOS files
+.DS_Store
+
+# Thumbnails and other non-essential generated files
+*.png
