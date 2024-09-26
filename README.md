@@ -25,6 +25,13 @@ The visualization highlights differences in male and female participation in ter
 - The 50% enrollment mark is clearly highlighted with a dotted line for easier comparison between genders.
 - The visualization includes country flags and labels.
 
+## Visualization
+
+Here is the visualization of the tertiary education enrollment by gender:
+
+![Tertiary Education Enrollment Infographic](https://raw.githubusercontent.com/cntanos/TertiaryEducationEnrollmentVisualization/main/beautiful_tertiary_education_enrollment_infographic.png)
+
+
 ## How to Run the Code
 
 1. **Install Python**: Ensure that Python 3 is installed on your system.
